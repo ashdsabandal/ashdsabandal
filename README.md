@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![ashdsabandal's github stats](https://github-readme-stats.vercel.app/api?username=ashdsabandal)](https://github.com/anuraghazra/github-readme-stats)
+[![ashdsabandal's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashdsabandal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ashdsabandal/ashdsabandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
