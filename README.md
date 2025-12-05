@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![ashdsabandal's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashdsabandal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashdsabandal&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 <!--
